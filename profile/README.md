@@ -21,12 +21,12 @@ Team
 ---
 
 Stalwart Labs Ltd. is a very small team consisting of just [one developer](https://github.com/mdecimus), who has been implementing 
-email protocols in C since the mid-90s. 
+email software in C since the mid-90s. 
 
 Sponsorship
 ---
 
-All the mail server components and libraries released so far have been written by a single person
+All mail server components and libraries released so far have been written by a single person
 without any external funding, so if you like the project please consider [becoming a sponsor](https://github.com/sponsors/stalwartlabs).
 
 Thank you!
