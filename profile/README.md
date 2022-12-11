@@ -26,8 +26,6 @@ email software in C since the mid-90s.
 Sponsorship
 ---
 
-All mail server components and libraries released so far have been written by a single person
-without any external funding, so if you like the project please consider [becoming a sponsor](https://github.com/sponsors/stalwartlabs).
-
-Thank you!
+All components and libraries released so far have been written without any external funding.
+If you find the project useful you can help by [becoming a sponsor](https://github.com/sponsors/stalwartlabs). Thank you!
 
