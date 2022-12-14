@@ -1,14 +1,7 @@
-Hi there, we want to modernize e-mail 👋
+Hi there, let's modernize e-mail 👋
 ---
 
-Self-hosting an e-mail server is notoriously difficult. Most of the open-source mail server software 
-available was written decades ago and suffers from being slow, convoluted or too complicated to 
-install and maintain. A quick search for the terms “self-hosting email” on HackerNews or Reddit shows that most 
-system administrators and enthusiasts truly value their privacy but they would rather sacrifice it 
-and pay Google or Microsoft to host their email instead of having to deal with the complexities 
-of running a self-hosted mail server. In addition to that, most popular mail servers have not yet fully 
-implemented modern internet e-mail standards such as the JSON Meta Application Protocol
-which is a much more efficient replacement of IMAP.
+Self-hosting an e-mail server is notoriously difficult. While privacy is a top concern for many individuals and businesses, the complexities of self-hosting a mail server often outweigh the benefits, leading many to choose to sacrifice some privacy and pay a third-party provider to manage their email instead. One of the key challenges of self-hosting an email server is the outdated and complex nature of most available open-source mail server software. 
 
 Mission 🚀
 ---
