@@ -10,12 +10,6 @@ Stalwart Labs' mission is to help modernize, democratize and promote decentraliz
 creating an open-source mail server in Rust that is simple to run but at the same time extremely secure, 
 robust and focused on privacy.
 
-Team
----
-
-Stalwart Labs Ltd. is a very small team consisting of just [one developer](https://github.com/mdecimus), who has been implementing 
-email software in C since the mid-90s. 
-
 Sponsorship
 ---
 
