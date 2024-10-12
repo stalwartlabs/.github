@@ -13,6 +13,5 @@ robust and focused on privacy.
 Sponsorship
 ---
 
-All components and libraries released so far have been written without any external funding.
-If you find the project useful you can help by [becoming a sponsor](https://github.com/sponsors/stalwartlabs). Thank you!
+If you find the project useful you can help by [becoming a sponsor](https://opencollective.com/stalwart). Thank you!
 
